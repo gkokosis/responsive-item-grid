@@ -2,9 +2,11 @@
 
 A simple react app that fetches data from a mock API and displays items in a responsive grid
 
-Development process
+Development process:
 To run a local server for observing live changes, run the following:
+
 npm install
+
 npm start
 
 Build process
