@@ -5,9 +5,9 @@ A simple react app that fetches data from a mock API and displays items in a res
 Development process:
 To run a local server for observing live changes, run the following:
 
-npm install
+`npm install`
 
-npm start
+`npm start`
 
 
 Build process:
@@ -17,9 +17,9 @@ npm run build
 
 All artifacts can be found in the `build` directory, and can be served statically using:
 
-npm install serve
+`npm install serve`
 
-serve -s build
+`serve -s build`
 
 
 
